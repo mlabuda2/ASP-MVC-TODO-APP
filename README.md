@@ -1,22 +1,23 @@
 ﻿ASP MVC wymagania
 Aplikacja realizująca CRUD
 
-"""
+```
 Modele: 35%
 
 atrybuty dotyczące ograniczeń danych (własne walidatory): 15%						- v
 atrybuty dotyczące widoków: 10%																	        - v [DISPLAYNAME]
 minimum 2 tabele z relacją jeden-do-wiele: 10%													- v user 1-wiele Todo's
-"""
-"""
+```
+
+```
 Kontrolery: 30%
 
 powiązanie uprawnień zalogowanych userów z kontrolerami (atrybuty wykorzystujące role): 10%		- v Constans admin
 logowanie i przynależność do ról: 10%															- v
 LINQ: 10%																						- v
-"""
+```
 
-"""
+```
 Widoki: 35%
 
 widoki pisane w Razor + przekazywanie danych do widoku: 7%										- v
