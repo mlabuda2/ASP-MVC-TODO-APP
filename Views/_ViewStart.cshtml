@@ -1,0 +1,17 @@
+﻿@{
+    Layout = "_Layout";
+}
+
+@*@{
+        var controller = HttpContext.Current.Request.RequestContext.RouteData.Values["action"].ToString();
+        string cLayout = "";
+        if (controller == "Details")
+        {
+            cLayout = "~/Views/Shared/_mojLayout.cshtml";
+        }
+        else
+        {
+            cLayout = "~/Views/Shared/_Layout.cshtml";
+        }
+        Layout = cLayout;
+    }*@

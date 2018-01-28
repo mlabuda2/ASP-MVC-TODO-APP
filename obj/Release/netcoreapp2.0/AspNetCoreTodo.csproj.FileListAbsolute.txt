@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\AspNetCoreTodo-master\AspNetCoreTodo-master\bin\Release\netcoreapp2.0\app.db
+C:\Users\user\Desktop\AspNetCoreTodo-master\AspNetCoreTodo-master\bin\Release\netcoreapp2.0\AspNetCoreTodo.deps.json
+C:\Users\user\Desktop\AspNetCoreTodo-master\AspNetCoreTodo-master\bin\Release\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.json
+C:\Users\user\Desktop\AspNetCoreTodo-master\AspNetCoreTodo-master\bin\Release\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.dev.json
+C:\Users\user\Desktop\AspNetCoreTodo-master\AspNetCoreTodo-master\bin\Release\netcoreapp2.0\AspNetCoreTodo.dll
+C:\Users\user\Desktop\AspNetCoreTodo-master\AspNetCoreTodo-master\bin\Release\netcoreapp2.0\AspNetCoreTodo.pdb
+C:\Users\user\Desktop\AspNetCoreTodo-master\AspNetCoreTodo-master\obj\Release\netcoreapp2.0\AspNetCoreTodo.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\AspNetCoreTodo-master\AspNetCoreTodo-master\obj\Release\netcoreapp2.0\AspNetCoreTodo.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AspNetCoreTodo-master\AspNetCoreTodo-master\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\user\Desktop\AspNetCoreTodo-master\AspNetCoreTodo-master\obj\Release\netcoreapp2.0\AspNetCoreTodo.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\AspNetCoreTodo-master\AspNetCoreTodo-master\obj\Release\netcoreapp2.0\AspNetCoreTodo.AssemblyInfo.cs
+C:\Users\user\Desktop\AspNetCoreTodo-master\AspNetCoreTodo-master\obj\Release\netcoreapp2.0\AspNetCoreTodo.dll
+C:\Users\user\Desktop\AspNetCoreTodo-master\AspNetCoreTodo-master\obj\Release\netcoreapp2.0\AspNetCoreTodo.pdb

@@ -1,0 +1,18 @@
+﻿@model TodoViewModel;
+
+@{
+    Layout = "~/Views/Shared/_mojLayout.cshtml";
+}
+
+@{
+    ViewData["Title"] = "Szczegóły danego ToDo";
+}
+
+<h2>@ViewData["Title"]</h2>
+<br /> <br />
+<h4>@Html.LabelFor(model => model.Item.OwnerId)</h4>
+<alert message="@Model.Item.OwnerId"></alert> <br /> <br />
+<h4>@Html.LabelFor(model => model.Item.Title)</h4>
+<alert message="@Model.Item.Title"></alert> <br /> <br />
+<h4>@Html.LabelFor(model => model.Item.MadeAt)</h4>
+<alert message="@Model.Item.MadeAt"></alert>
