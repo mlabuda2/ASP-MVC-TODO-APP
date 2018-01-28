@@ -26,12 +26,12 @@ umiejętność + przykład ręcznego rozszerzenia widoku: 7%											- da się
 widoki częściowe + komunikacja z widokiem podstawowym: 7%										- v
 zastosowanie podstawowych helperów + definicja własnych: 7%									- podstawowy: @Html.DisplayNameFor + alert bootstrap
 zastosowanie layoutów: 7%																		- v
-"""
+```
 
-"""
+```
 Extra: 15%
 
 modyfikacja routingu RESTowego: 5%																- -
 zarządzanie stanem aplikacji: 5%																- -
 umieszczenie strony na Azure: 5%																- -
-"""
+```
